@@ -32,7 +32,7 @@
   padding-bottom: 3em; 
   padding-left: 2em; 
   padding-right: 2em;">
-  <h2> 🔍 What I Code With 🔍 </h2>
+  <h2> 🔍 WHAT I CODE WITH 🔍 </h2>
   <h3> Languages & Tools </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
@@ -125,7 +125,7 @@
   border: 5px solid transparent;
   border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
   border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
- <h2>📈 STATISTIC 📉</h2>
+ <h2>📊 GITHUB STATS 📊</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=althafmuflihh&show_icons=true&theme=blueberry&border_radius=5&hide_border=true&count_private=true" align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=althafmuflihh&theme=blueberry&border_radius=5&hide_border=true" align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=althafmuflihh&layout=compact&theme=blueberry&border_radius=5&hide_border=true" align=center>
@@ -135,7 +135,7 @@
   border: 5px solid transparent;
   border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
   border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
- <h1>📩 REACH ME OUT 📩</h1>
+ <h2>📬 REACH ME HERE 📬</h2>
   <a href="mailto:althaf.muflihh@gmail.com" target="_blank" rel="noreferrer">
       <img
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
