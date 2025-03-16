@@ -7,7 +7,7 @@
   padding-left: 2em; 
   padding-right: 2em;">
   
-  <h1> Hi, It's Althaf!  </h1>
+  <h1> 👋 Hi, It’s Althaf! </h1>
   <h3>Glad you stopped by!👋</h3>
 
   I am currently a <b>mathematics student</b> at Universitas Indonesia with a strong analytical mindset and a passion for 
