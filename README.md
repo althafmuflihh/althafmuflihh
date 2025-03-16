@@ -9,7 +9,7 @@
   
   <h1> Hi, It’s Althaf! </h1>
   <h3>Glad you stopped by!👋</h3>
-
+  <h4> A little bit about me:</h4>
   I am currently a <b>mathematics student</b> at Universitas Indonesia with a strong analytical mindset and a passion for 
   <b>solving complex problems</b>. I enjoy analyzing systems, spotting patterns, and finding effective solutions. 
   Beyond mathematics, I am a <b>lifelong learner</b> eager to explore new knowledge and skills. I have a deep interest in 
